@@ -9,7 +9,6 @@
 
 	<name>RestAssured</name>
 	<url>http://maven.apache.org</url>
-
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
@@ -47,7 +46,6 @@
 			<artifactId>org.json.simple</artifactId>
 			<version>0.4</version>
 		</dependency>
-
-
+		<!-- https://mvnrepository.com/artifact/com.jayway.restassured/rest-assured -->
 	</dependencies>
 </project>
